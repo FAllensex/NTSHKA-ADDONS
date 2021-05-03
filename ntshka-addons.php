@@ -12,6 +12,7 @@
  * Plugin URI:        https://example.com/plugin-name
  * Description:       Addons For elementor
  * Version:           1.0.0
+ * tested up to:      5.4
  * Requires at least: 5.2
  * Requires PHP:      7.0
  * Author:            Asper Designs
