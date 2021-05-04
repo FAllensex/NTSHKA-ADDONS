@@ -1,5 +1,5 @@
 === Nsthka Addons===
-Contributors: (FALLEN, ASPER DEIGNS)
+Contributors: (FALLEN,giorgi kakhiani,)
 Tags: elementor, Elementor widgets, widgets, date 
 Requires at least: 5.2
 Tested up to: 5.7
