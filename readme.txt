@@ -1,6 +1,6 @@
 === Nsthka Addons===
 Contributors: (FALLEN,giorgi kakhiani,)
-Tags: elementor, Elementor widgets, widgets, date 
+Tags: elementor, Elementor widgets, widgets, date,timeline
 Requires at least: 5.2
 Tested up to: 5.7
 Stable tag: 1.0.0
