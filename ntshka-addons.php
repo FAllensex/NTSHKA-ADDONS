@@ -3,8 +3,8 @@
 /**
  * Ntshka Addons
  *
- * @author            Asper Designs
- * @copyright         2021 Asper Designs
+ * @author            Felfz
+ * @copyright         2021 Felfz
  * @license           GPL-2.0-or-later
  *
  * @wordpress-plugin
@@ -15,7 +15,7 @@
  * tested up to:      5.7
  * Requires at least: 5.2
  * Requires PHP:      7.0
- * Author:            Asper Designs
+ * Author:            Felfz
  * Author URI:        https://nikushasirbiladze.xyz
  * Text Domain:       ntashka-addons
  * License:           GPL v2 or later
